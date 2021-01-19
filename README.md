@@ -2,9 +2,9 @@
 
 We build a Lego figure out of native geometry, inspired by a Lego-fbx-Model.
 
-![Preview1](Preview1.png)
+![Preview1](Demonstrator/Preview1.png)
 
-![Preview2](Preview2.png)
+![Preview2](Demonstrator/Preview2.png)
 
 # Usage
 
