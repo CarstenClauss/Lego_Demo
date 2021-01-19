@@ -3,6 +3,7 @@
 We build a Lego figure out of native geometry, inspired by a Lego-fbx-Model.
 
 Previews:
+
 Left: fbx-Model, Right: native Geometry
 ![Preview1](Demonstrator/Preview1.png)
 
